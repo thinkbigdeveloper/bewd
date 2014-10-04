@@ -1,0 +1,5 @@
+What are the goals I have from this class?  A good question.  Being able to take ideas for technology that I have, and to turn them into reality vis-a-vis a fully functional web application would be ideal.
+
+I'd like to be able to conceptualize database-driven technological solutions and be able to code them from the ground up on the back end, and then to tie them into a decent front-end (as per existing skill set).
+
+I'd like to make connections with other developers like myself, and other developers unlike myself (i.e. more experienced developers), and create awesome technology.
